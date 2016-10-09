@@ -7,7 +7,6 @@
   错误提示： </br>
   <code>server sent (publickey)</code>
 </p>
-
 <p>
    <h3>谷歌、百度</h3>
    请教高人或者在网上也是试了N种方法，什么删除某注册表、更改SSH client、重置SSH到个人github甚至卸载安装Git和tortoiseGit...</br>
@@ -20,7 +19,6 @@
    <blockquote>慢慢试着自己去踩坑吧，踩的坑多了ye就化身大神了~</blockquote>
    So, I feel on my own!!!
 </p>
-
 <p>
    <h3>反思</h3>
    想来原leader的话真心是真理的，on my own 也是该真理的不错诠释，问题总算被 KO 了。<br>
