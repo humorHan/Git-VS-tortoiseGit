@@ -2,9 +2,10 @@
 <p>
   Git和tortoiseGit共存时候产生的一些问题</br>
   好吧，首先我承认这个问题困扰了N久，废话少说 上问题~</br>
-## 概述：起初公司项目和个人github去clone/pull都是没问题的，然而某天不知搞到了哪里 个人的github不好用了...</br>
-   ##错误提示： </br>
-   <code>server sent (publickey)</code>
+<h3>概述：</h3>
+  起初公司项目和个人github去clone/pull都是没问题的，然而某天不知搞到了哪里 个人的github不好用了...</br>
+  错误提示： </br>
+  <code>server sent (publickey)</code>
 </p>
 
 <p>请教高人或者在网上也是试了N种方法，什么删除某注册表、更改SSH client、重置SSH到个人github甚至卸载安装Git和tortoiseGit...</br>
